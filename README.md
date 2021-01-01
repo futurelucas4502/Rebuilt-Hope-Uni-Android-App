@@ -26,7 +26,8 @@ Any issues or errors or its not supported for u simply make an issue and ill *tr
 8. Enter your AppleID password and do the 2FA if needed
 9. When it's done on your phone you need to go to settings -> general -> profiles & device management and you'll see your AppleID click it and hit Trust
 10. Disconnect your phone and tada you have the app installed however needs to be re-signed every 7 days simply go from step 5 to the end :)
-**NOTE**: On iOS u get a random error when u open it ignore it it's fine idk why it happens but everything works so ¯\_(ツ)_/¯
+</br></br>
+**NOTE**: On iOS u get a random error when u open it ignore it it's fine idk why it happens but everything works so ¯\\_(ツ)_/¯
 
 # Disclaimer
 I don't have any affiliation with Liverpool Hope Uni I am simply a student there this app is a fixed version of the Hope Uni app that can be found on the Google play store here: https://play.google.com/store/apps/details?id=com.lhu.hopeapp
