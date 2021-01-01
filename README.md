@@ -8,6 +8,16 @@ This is a straight up rebuild with updated plugins cleaned up file stuctures and
 
 Any issues or errors or its not supported for u simply make an issue and ill *try* and fix it!
 
+# Proof
+
+## Android:
+![](https://media.discordapp.net/attachments/760067930037026821/793870618797015060/unknown.png)
+![](https://media.discordapp.net/attachments/713894594529460296/794376909215629332/Screenshot_20210101-012958_Hope_Uni_futurelucas4502_rebuild.jpg)
+
+## iOS:
+![](https://media.discordapp.net/attachments/760067930037026821/794229597897359370/20201231_154423.jpg)
+![](https://media.discordapp.net/attachments/760067930037026821/794272577698267166/20201231_183516.jpg)
+
 # Install process
 
 ## Android:
